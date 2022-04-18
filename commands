@@ -1,0 +1,2 @@
+go mod init api/oders-api
+go get github.com/gin-gonic/gin
