@@ -15,3 +15,11 @@ Build an application which is able to:
 To run the api use the command in the main.go folder
 ```
 go run main.go
+```
+
+## Considerations/Future additions
+* Update data model to match future SQL tables
+* Add Database connectivity 
+* Add Authentication capabilties (OAuth or Auth0)
+* Create proper controller/repository pattern for endpoints/database interactivity
+* Add environment variables
