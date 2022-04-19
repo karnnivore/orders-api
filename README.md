@@ -11,3 +11,7 @@ Build an application which is able to:
 
 ## Setup
 * [Go version 1.18.1](https://go.dev/dl/)
+
+To run the api use the command in the main.go folder
+```
+go run main.go
